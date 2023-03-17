@@ -1,0 +1,123 @@
+body{
+    overflow-x: hidden;
+}
+.div1{
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    background-color: white;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.div1 ul {
+    text-align: right;
+    margin-right: 70px;
+    padding-top: 10px;
+}
+a{
+    padding: 20px;
+    text-decoration: none;
+    font-size: 1.2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 2.5px;
+    color: black;
+}
+a:hover{
+    color: orange;
+}
+.div2{
+    background-image: url("images/woodcomp.jpeg");
+    background-size: cover;
+    width: 100%;
+    height: 670px;
+}
+.sub{
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 250px;
+    text-align: center;
+    background-color: black;
+    opacity: 0.8;
+
+}
+.p-hello{
+    font-size: 4em;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    color: orange;
+    text-decoration: underline;
+    text-decoration-color: orangered;
+    text-decoration-style: dotted;
+}
+.p-intro{
+    font-size: 1.6em;
+    font-weight: 400;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 4px;
+    color: white;
+}
+.container{
+    width: 100%;
+    height: 600px;
+}
+.col-4 img{
+    width: 280px;
+    height: 300px;
+    border-radius: 200px;
+    border: 1px solid grey;
+}
+.col-9{
+    text-align: center;
+    width: 100%;
+}
+.col-6{
+    width: 750px;
+}
+.p1{
+    text-align: center;
+    color: orangered;
+    font-size: 2em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+}
+h2{
+    font-size: 3em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+}
+.p2{
+    text-align: center;
+    color: black;
+    font-size: 1.4em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+.contacts{
+    width: 100%;
+    height: 600px;
+    background-color: dimgrey;
+}
+input, textarea, button{
+    margin-top: 20px;
+}
+button{
+    width: 100px;
+}
+#socials{
+    text-align: center;
+    width: 100%;
+    font-size: 3em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+}
+.col{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+i{
+    font-size: 50px;
+}
