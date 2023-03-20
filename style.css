@@ -45,7 +45,8 @@ a:hover{
 .p-hello{
     font-size: 4em;
     font-weight: 700;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: cursive;
+    font-style: italic;
     letter-spacing: 2px;
     color: orange;
     text-decoration: underline;
@@ -65,8 +66,8 @@ a:hover{
 }
 .col-4 img{
     width: 280px;
-    height: 300px;
-    border-radius: 200px;
+    height: 280px;
+    border-radius: 50%;
     border: 1px solid grey;
 }
 .col-9{
