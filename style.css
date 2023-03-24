@@ -40,7 +40,6 @@ a:hover{
     text-align: center;
     background-color: black;
     opacity: 0.8;
-
 }
 .p-hello{
     font-size: 4em;
@@ -52,7 +51,6 @@ a:hover{
     text-decoration: underline;
     text-decoration-color: orangered;
     text-decoration-style: dotted;
-    
 }
 .p-intro{
     font-size: 1.6em;
